@@ -5,7 +5,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background:red;
+  background:#ED1C24;
   padding-bottom:100px;
 }
 
@@ -20,11 +20,11 @@ div.grid-item {
 }
 
 h1:hover{
-  color:red;
+  color:#ED1C24;
 }
 
 p:hover{
-  color:red;
+  color:#ED1C24;
 }
 
 div.grid-item img {
