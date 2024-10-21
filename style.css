@@ -67,3 +67,7 @@ p {
 p.bottomPage{
   color:white;
 }
+
+div.intro{
+  padding:15px;
+}
